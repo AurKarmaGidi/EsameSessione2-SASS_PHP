@@ -1,0 +1,63 @@
+.project-detail {
+  padding: $section-padding;
+
+  .container {
+    max-width: 900px;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    color: $primary-color;
+  }
+
+  .project-images {
+    margin-bottom: 3rem;
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      @include transition;
+      
+      &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+      }
+    }
+
+    p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 2rem;
+      color: #555;
+    }
+  }
+
+  .project-info {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+
+    h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1.5rem;
+      color: $primary-color;
+    }
+
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .cta-button {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+  }
+}

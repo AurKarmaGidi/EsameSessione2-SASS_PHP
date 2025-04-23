@@ -1,0 +1,28 @@
+/* Hero Section */
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 5rem 0;
+    background: url('../img/background.jpg') center/cover no-repeat;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+/* About Section */
+.about {
+    padding: 5rem 0;
+    background: #f8f9fa;
+}
+
+/* Portfolio Section */
+.portfolio {
+    padding: 5rem 0;
+}
+
+/* Contact Section */
+.contact {
+    padding: 5rem 0;
+    background: #f9f9f9;
+}

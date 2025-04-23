@@ -1,0 +1,53 @@
+{
+    "home": {
+        "titolo": "Marika Guardi",
+        "sottotitolo": "Full Stack Web Developer",
+        "testo_bottone": "Contattami"
+    },
+    "about": {
+        "foto": "img/foto-profilo.jpg",
+        "descrizione": "Ciao! Sono Marika Guardi, una Full Stack Web Developer con una passione per la creazione di siti web eleganti e funzionali..."
+    },
+    "portfolio": [
+        {
+            "id": 1,
+            "titolo": "Progetto 1",
+            "immagine": "img/project1.jpg",
+            "descrizione": "Descrizione dettagliata del progetto 1...",
+            "immagini_aggiuntive": [
+                "img/img1.png"
+            ],
+            "dettagli": "Tecnologie utilizzate: HTML, CSS, JavaScript. Progetto completato in 3 settimane."
+        },
+        {
+            "id": 2,
+            "titolo": "Progetto 2",
+            "immagine": "img/project2.jpg",
+            "descrizione": "Descrizione dettagliata del progetto 2...",
+            "immagini_aggiuntive": [
+                "img/img2.png"
+            ],
+            "dettagli": "Tecnologie utilizzate: RXJS, Laravel, Angular. Progetto completato in 6 settimane."
+        },
+        {
+            "id": 3,
+            "titolo": "Progetto 3",
+            "immagine": "img/project3.png",
+            "descrizione": "Descrizione dettagliata del progetto 3...",
+            "immagini_aggiuntive": [
+                "img/img3.jpg"
+            ],
+            "dettagli": "Tecnologie utilizzate: PHP, MySQL, Javascript. Progetto completato in 4 settimane."
+        }
+    ],
+    "contatti": {
+        "email": "webdeveloper@gmail.com",
+        "telefono": "+39 333 456 7890",
+        "indirizzo": "Via da qui 233, 20100 Milano, Italia",
+        "social": [
+            {"nome": "LinkedIn", "url": "http://www.linkedin.com"},
+            {"nome": "Instagram", "url": "http://www.instagram.com"},
+            {"nome": "Facebook", "url": "http://www.facebook.com"}
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+Data: 2025-04-03 19:40:42
+Nome: rené
+Email: rene@gmail.com
+Messaggio: ciao
+
+Data: 2025-04-03 21:04:14
+Nome: marika
+Email: marika@gmail.com
+Messaggio: ciao
+
+Data: 2025-04-14 22:11:28
+Nome: marika
+Email: email@gmial.com
+Argomento: collaborazione
+Messaggio: dddd
+
+Data: 2025-04-15 00:26:56
+Nome: jklkm
+Email: email@gmail.com
+Argomento: preventivo
+Messaggio: ciao
+
+Data: 2025-04-15 00:34:53
+Nome: Aur
+Email: email@gmail.com
+Argomento: preventivo
+Messaggio: ciao
+
+Data: 2025-04-22 18:50:48
+Nome: marika
+Email: email@gmial.com
+Argomento: collaborazione
+Messaggio: ciao
+
